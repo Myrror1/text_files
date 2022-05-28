@@ -10,4 +10,4 @@ def word_count(str) :
     
     return counts
 
-print(word_count(readme.txt))
+print(word_count("that man is very tall and very humble"))
